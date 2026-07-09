@@ -18,6 +18,17 @@ function LoginForm() {
         </div>
 
         <br />
+        <div>
+          <label>Password:</label>
+          <br />
+          <input
+            type="password"
+            placeholder="Enter your password"
+            name="password"
+          />
+        </div>
+
+        <br />
 
         <button type="submit">Login</button>
       </form>
