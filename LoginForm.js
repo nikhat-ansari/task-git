@@ -21,11 +21,7 @@ function LoginForm() {
         <div>
           <label>Password:</label>
           <br />
-          <input
-            type="password"
-            placeholder="Enter your password"
-            name="password"
-          />
+          <input type="password" placeholder=" password" name="password" />
         </div>
 
         <br />
